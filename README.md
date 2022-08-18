@@ -18,6 +18,7 @@ The project is a simplified Paint.
 ## Dependencies
 - [C++17](https://en.cppreference.com/w/cpp/17)
 - [SDL2](https://www.libsdl.org/download-2.0.php), [SDL2_image](https://www.libsdl.org/projects/SDL_image/) and [SDL2_ttf](https://github.com/libsdl-org/SDL_ttf)
+- [FreeType](https://gitlab.freedesktop.org/freetype/freetype)
 - Simple File Dialog ([SFD](https://github.com/rxi/sfd)) library
 
 ## Building (for Windows)
