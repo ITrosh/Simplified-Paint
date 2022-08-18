@@ -1,0 +1,18 @@
+#ifndef PAINT_ERRORSTATE_H
+#define PAINT_ERRORSTATE_H
+
+enum class ErrorState {
+    SUCCESS,
+    TEXTURE,
+    SURFACE,
+    WINDOW,
+    RENDERER,
+    MENU_FONT,
+    INSCRIPTION_FONT,
+    SDL_LIBRARY,
+    IMG_LIBRARY,
+    SDL_TTF_LIBRARY,
+    SYNTAX,
+};
+
+#endif //PAINT_ERRORSTATE_H

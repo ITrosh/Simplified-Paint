@@ -1,0 +1,16 @@
+MENU
+	TAB
+		"File"
+		POPUP_MENU
+			POPUP_TAB
+				"New"
+			END_POPUP_TAB
+			POPUP_TAB
+				"Open..."
+			END_POPUP_TAB
+			POPUP_TAB
+				"Save"
+			END_POPUP_TAB
+		END_POPUP_MENU
+	END_TAB
+END_MENU
